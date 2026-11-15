@@ -25,6 +25,39 @@ Meu objetivo é conquistar minha primeira oportunidade de **estágio em Cybersec
 
 ---
 
+## 💼 Competências aplicadas em projetos recentes
+
+Meus projetos conectam programação, automação e análise de processos a problemas do dia a dia. Estou desenvolvendo competências em organização de informações, regras de negócio, raciocínio lógico e melhoria da experiência de uso.
+
+### 📁 [PastaPronta](https://github.com/LeoDevsn/pastapronta)
+**Automação, produtividade e organização inteligente de arquivos**
+
+Automação em Python para organizar arquivos, identificar duplicados por conteúdo e manter um histórico reversível. O projeto demonstra como reduzir tarefas repetitivas e cuidar da integridade dos arquivos com prévia, verificação e restauração.
+
+### 🧾 [OrçaFlow](https://github.com/LeoDevsn/orcaflow)
+**Gestão comercial, transformação digital e relacionamento com clientes**
+
+Sistema para organizar clientes, orçamentos e próximos contatos de autônomos e pequenos negócios. Demonstra a aplicação de regras de negócio ao processo comercial, do cadastro ao acompanhamento das propostas e à interação com o cliente.
+
+### 🛒 [Balcão PDV](https://github.com/LeoDevsn/balcao-pdv)
+**Gestão operacional, controle financeiro e integração de processos**
+
+Aplicativo local que reúne vendas, estoque e operações de caixa. Demonstra a integração de processos por meio de regras de negócio, com cálculo de troco, movimentações de estoque e abertura e fechamento de caixa.
+
+### 🌐 [Calculadora IPv4 e Subnetting](https://github.com/LeoDevsn/subnetting-calculator)
+**Aprendizado aplicado, raciocínio lógico e ferramenta de apoio técnico**
+
+Ferramenta educativa para calcular sub-redes IPv4 e explicar os resultados, com versões web, PWA e terminal Python. Demonstra a transformação de conhecimentos de redes e programação em uma solução prática para estudo e apoio técnico.
+
+### 🏨 [SmartCheck Hotel](https://github.com/LeoDevsn/smartcheck-hotel)
+**Visão de negócio, análise de processos e melhoria da experiência operacional**
+
+Estudo de caso criado a partir de um problema que identifiquei no ambiente de trabalho em hotelaria. Analisei o fluxo de atendimento e idealizei uma melhoria para disponibilizar a informação de autorização de consumo na abertura da mesa. O protótipo foi implementado com apoio de IA; minha contribuição central está na observação do problema, na proposta e no refinamento dos requisitos. A solução ainda depende de validação operacional.
+
+Esses projetos representam diferentes formas de resolver problemas e fazem parte da minha evolução em tecnologia.
+
+---
+
 ## 📚 Atualmente estudando
 
 ### 🎓 Cisco Networking Academy — Junior Cybersecurity Analyst
@@ -228,7 +261,7 @@ Projeto em Python para análise de arquivos de log e identificação de possíve
 
 Projeto educacional responsivo em HTML, CSS e JavaScript para cadastrar alunos por turma, registrar notas e classificar os resultados. Os dados são salvos no `localStorage` do navegador.
 
-[Acessar repositório](https://github.com/DzyRazor/sistema-controle-notas)
+[Acessar repositório](https://github.com/LeoDevsn/sistema-controle-notas)
 
 ---
 
@@ -343,9 +376,9 @@ A ideia é utilizar os projetos para demonstrar aquilo que estou realmente estud
 
 # 📊 GitHub Stats
 
-![DzyRazor GitHub Stats](https://github-readme-stats.vercel.app/api?username=DzyRazor&show_icons=true&theme=dark)
+![LeoDevsn GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeoDevsn&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DzyRazor&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoDevsn&layout=compact&theme=dark)
 
 ---
 
